@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/home/user/tutorials/javaexamples/outtree.jar",
+        "/home/user/tutorials/javaexamples/packages/outtree.jar"
+    ]
+}
