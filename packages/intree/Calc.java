@@ -8,7 +8,7 @@ public class Calc {
         int c = a + b;
         System.out.println("Sum of a and b is " + c);
         Helper.doit();
-        /** cannot make a static reference to non-static method */
+        /** cannot make a static reference to non-static method **/
         // Helper.another();
         Helper h = new Helper();
         Misc p=new Misc();
